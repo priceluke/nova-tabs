@@ -3,7 +3,7 @@
     <slot>
       <!--<h4 class="text-90 font-normal text-2xl mb-3">{{ panel.name }}</h4>-->
     </slot>
-    <div class="relationship-tabs-panel card">
+    <div class="relationship-tabs-panel">
       <div class="tabs-wrap border-b-2 border-40 w-full">
         <div class="tabs flex flex-row overflow-x-auto">
           <button
